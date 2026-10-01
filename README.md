@@ -16,14 +16,6 @@ Welcome to my official GitHub profile! I am a passionate **Web Developer**, **We
 
 ---
 
-### 📊 GitHub Stats & Metrics
-
-<img src="https://vercel.app" alt="BlueVxHd GitHub Stats" width="400" />
-
-<img src="https://vercel.app" alt="Top Languages" width="400" />
-
----
-
 ### 📱 Connect With Me
-- 🎥 **YouTube:** [BlueVxHd Minecraft](https://youtube.com)
-- 🎵 **TikTok:** [@bluevxhd](https://tiktok.com)
+- 🎥 **YouTube:** [BlueVxHd Minecraft](www.youtube.com/@bluevxhdchannel)
+- 🎵 **TikTok:** [@bluevxhd](https://tiktok.com/@nell0411)
