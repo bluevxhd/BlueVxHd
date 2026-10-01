@@ -1,16 +1,23 @@
-## Hi there 👋
+# Lionel Rodriquez Da Silva (BlueVxHd) 🚀
 
-<!--
-**bluevxhd/BlueVxHd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a **Web Developer**, **Web Designer**, and **Digital Creator** passionate about building technology solutions and engaging digital content.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👤 About Me
+- 🔭 I’m currently working on web development and computer vision projects.
+- 🎨 **Specialties:** Web Design, UI/UX, and Minecraft Content Creation (Shaders & Add-ons).
+- 🌐 **Portfolio Website:** [bluevxhd-portofolio.vercel.app](https://vercel.app)
+
+### 🛠️ Tech Stack & Tools
+- **Languages & Frameworks:** HTML5, CSS3, JavaScript, React, Next.js.
+- **AI & Tech:** Python, Object Detection, Gesture Hands Detection.
+- **Content Platforms:** YouTube & TikTok.
+
+### 📈 GitHub Stats
+![BlueVxHd's GitHub stats](https://vercel.app)
+![Top Langs](https://vercel.app)
+
+---
+
+📱 **Find me on:** [YouTube](https://youtube.com) | [TikTok](https://tiktok.com)
