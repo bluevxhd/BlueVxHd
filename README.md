@@ -17,5 +17,5 @@ Welcome to my official GitHub profile! I am a passionate **Web Developer**, **We
 ---
 
 ### 📱 Connect With Me
-- 🎥 **YouTube:** [BlueVxHd Minecraft](www.youtube.com/@bluevxhdchannel)
-- 🎵 **TikTok:** [@bluevxhd](https://tiktok.com/@nell0411)
+- 🎥 **YouTube:** [BlueVxHd Minecraft](https://youtube.com/@bluevxhdchannel)
+- 🎵 **TikTok:** [@bluevxhd](https://tiktok.com/@nelll0411)
